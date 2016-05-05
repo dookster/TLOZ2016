@@ -1,0 +1,3827 @@
+fileFormatVersion: 2
+guid: 746ac5cc70a0f1e46bea82b6dea956a5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AidanRoyo
+    100002: //RootNode
+    100004: chest
+    100006: f_index.01.L
+    100008: f_index.01.R
+    100010: f_index.02.L
+    100012: f_index.02.R
+    100014: f_index.03.L
+    100016: f_index.03.R
+    100018: f_middle.01.L
+    100020: f_middle.01.R
+    100022: f_middle.02.L
+    100024: f_middle.02.R
+    100026: f_middle.03.L
+    100028: f_middle.03.R
+    100030: f_pinky.01.L
+    100032: f_pinky.01.R
+    100034: f_pinky.02.L
+    100036: f_pinky.02.R
+    100038: f_pinky.03.L
+    100040: f_pinky.03.R
+    100042: f_ring.01.L
+    100044: f_ring.01.R
+    100046: f_ring.02.L
+    100048: f_ring.02.R
+    100050: f_ring.03.L
+    100052: f_ring.03.R
+    100054: foot.L
+    100056: foot.R
+    100058: foot_IK.L
+    100060: foot_IK.R
+    100062: foot_IK_main.L
+    100064: foot_IK_main.R
+    100066: forearm.L
+    100068: forearm.R
+    100070: hand.L
+    100072: hand.R
+    100074: head
+    100076: hips
+    100078: hips_main
+    100080: neck
+    100082: palm.01.L
+    100084: palm.01.R
+    100086: palm.02.L
+    100088: palm.02.R
+    100090: palm.03.L
+    100092: palm.03.R
+    100094: palm.04.L
+    100096: palm.04.R
+    100098: pole_target.L
+    100100: pole_target.R
+    100102: RigRoyo
+    100104: roll_back.L
+    100106: roll_back.R
+    100108: roll_front.L
+    100110: roll_front.R
+    100112: roll_main.L
+    100114: roll_main.R
+    100116: shin.L
+    100118: shin.R
+    100120: shoulder.L
+    100122: shoulder.R
+    100124: spine
+    100126: thigh.L
+    100128: thigh.R
+    100130: thumb.01.L
+    100132: thumb.01.R
+    100134: thumb.02.L
+    100136: thumb.02.R
+    100138: thumb.03.L
+    100140: thumb.03.R
+    100142: toe.L
+    100144: toe.R
+    100146: upper_arm.L
+    100148: upper_arm.R
+    400000: AidanRoyo
+    400002: //RootNode
+    400004: chest
+    400006: f_index.01.L
+    400008: f_index.01.R
+    400010: f_index.02.L
+    400012: f_index.02.R
+    400014: f_index.03.L
+    400016: f_index.03.R
+    400018: f_middle.01.L
+    400020: f_middle.01.R
+    400022: f_middle.02.L
+    400024: f_middle.02.R
+    400026: f_middle.03.L
+    400028: f_middle.03.R
+    400030: f_pinky.01.L
+    400032: f_pinky.01.R
+    400034: f_pinky.02.L
+    400036: f_pinky.02.R
+    400038: f_pinky.03.L
+    400040: f_pinky.03.R
+    400042: f_ring.01.L
+    400044: f_ring.01.R
+    400046: f_ring.02.L
+    400048: f_ring.02.R
+    400050: f_ring.03.L
+    400052: f_ring.03.R
+    400054: foot.L
+    400056: foot.R
+    400058: foot_IK.L
+    400060: foot_IK.R
+    400062: foot_IK_main.L
+    400064: foot_IK_main.R
+    400066: forearm.L
+    400068: forearm.R
+    400070: hand.L
+    400072: hand.R
+    400074: head
+    400076: hips
+    400078: hips_main
+    400080: neck
+    400082: palm.01.L
+    400084: palm.01.R
+    400086: palm.02.L
+    400088: palm.02.R
+    400090: palm.03.L
+    400092: palm.03.R
+    400094: palm.04.L
+    400096: palm.04.R
+    400098: pole_target.L
+    400100: pole_target.R
+    400102: RigRoyo
+    400104: roll_back.L
+    400106: roll_back.R
+    400108: roll_front.L
+    400110: roll_front.R
+    400112: roll_main.L
+    400114: roll_main.R
+    400116: shin.L
+    400118: shin.R
+    400120: shoulder.L
+    400122: shoulder.R
+    400124: spine
+    400126: thigh.L
+    400128: thigh.R
+    400130: thumb.01.L
+    400132: thumb.01.R
+    400134: thumb.02.L
+    400136: thumb.02.R
+    400138: thumb.03.L
+    400140: thumb.03.R
+    400142: toe.L
+    400144: toe.R
+    400146: upper_arm.L
+    400148: upper_arm.R
+    4300000: AidanRoyo
+    7400000: RigRoyo|abnerStillPat
+    7400002: RigRoyo|abnerStillStand01
+    7400004: RigRoyo|abnerStillTPose
+    7400006: RigRoyo|abnerWalkForward02
+    7400008: RigRoyo|elkeMoveWalkForward
+    7400010: RigRoyo|elkeStillSitBase
+    7400012: RigRoyo|elkeStillSitChop
+    7400014: RigRoyo|elkeStillSitPound
+    7400016: RigRoyo|elkeStillSitThrow
+    7400018: RigRoyo|elkeStillStand
+    7400020: RigRoyo|elkeStillTPose
+    7400022: RigRoyo|royoHeadBobble
+    7400024: RigRoyo|royoMoveRunForward
+    7400026: RigRoyo|royoStillBrushing
+    7400028: RigRoyo|royoStillStand
+    7400030: RigRoyo|royoStillTPose
+    9500000: //RootNode
+    13700000: AidanRoyo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RigRoyo|abnerStillPat
+      takeName: RigRoyo|abnerStillPat
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|abnerStillStand01
+      takeName: RigRoyo|abnerStillStand01
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|abnerStillTPose
+      takeName: RigRoyo|abnerStillTPose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|abnerWalkForward02
+      takeName: RigRoyo|abnerWalkForward02
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeMoveWalkForward
+      takeName: RigRoyo|elkeMoveWalkForward
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillSitBase
+      takeName: RigRoyo|elkeStillSitBase
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillSitChop
+      takeName: RigRoyo|elkeStillSitChop
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillSitPound
+      takeName: RigRoyo|elkeStillSitPound
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillSitThrow
+      takeName: RigRoyo|elkeStillSitThrow
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillStand
+      takeName: RigRoyo|elkeStillStand
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|elkeStillTPose
+      takeName: RigRoyo|elkeStillTPose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|royoHeadBobble
+      takeName: RigRoyo|royoHeadBobble
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|royoMoveRunForward
+      takeName: RigRoyo|royoMoveRunForward
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|royoStillBrushing
+      takeName: RigRoyo|royoStillBrushing
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|royoStillStand
+      takeName: RigRoyo|royoStillStand
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RigRoyo|royoStillTPose
+      takeName: RigRoyo|royoStillTPose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AidanRoyo
+        weight: 0
+      - path: RigRoyo
+        weight: 1
+      - path: RigRoyo/foot_IK_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/pole_target.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_back.L/roll_front.L/foot_IK.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.L/roll_main.L
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/pole_target.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_back.R/roll_front.R/foot_IK.R
+        weight: 0
+      - path: RigRoyo/foot_IK_main.R/roll_main.R
+        weight: 0
+      - path: RigRoyo/hips_main
+        weight: 1
+      - path: RigRoyo/hips_main/hips
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/neck/head
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: RigRoyo/hips_main/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.01.L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.02.L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.03.L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.01.L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.02.L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.03.L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.01.L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.02.L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.03.L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.01.L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.02.L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.03.L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.01.L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.02.L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.03.L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.01.R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.02.R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.03.R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.01.R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.02.R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.03.R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.01.R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.02.R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.03.R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.01.R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.02.R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring.03.R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.01.R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.02.R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.03.R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: aidenRoyo01001Rev(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: AidanRoyo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 4.24196121e-32, z: 4.2419618e-32, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RigRoyo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -4.3297803e-17, y: .707106769, z: .707106888, w: -4.32978096e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_IK_main.L
+      position: {x: -.162320003, y: .0616080016, z: .0715679973}
+      rotation: {x: -4.3297803e-17, y: -.707107008, z: .70710665, w: -4.32978096e-17}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: roll_back.L
+      position: {x: .000320002437, y: .0575679913, z: .0483920053}
+      rotation: {x: 3.09086197e-08, y: .707106829, z: -.707106829, w: -3.09086232e-08}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: roll_front.L
+      position: {x: -1.22391874e-09, y: .140000015, z: 3.38575812e-09}
+      rotation: {x: 4.37113918e-08, y: -8.42936743e-08, z: -1, w: -1.89800051e-15}
+      scale: {x: .999999523, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_IK.L
+      position: {x: -.000320002437, y: .0916080028, z: .0575679988}
+      rotation: {x: .961248755, y: 7.11525274e-08, z: -2.48094494e-07, w: -.275682628}
+      scale: {x: 1.00000036, y: .999999821, z: .999999225}
+      transformModified: 1
+    - name: roll_main.L
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 6.82017979e-25, z: -6.8202e-25, w: -.707106829}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: pole_target.L
+      position: {x: .0399999991, y: -.419679999, z: -.705632031}
+      rotation: {x: -1, y: -4.47015973e-16, z: -4.37113847e-08, w: -1.02265352e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_IK_main.R
+      position: {x: .162320003, y: .0616080016, z: .0715679973}
+      rotation: {x: -4.3297803e-17, y: -.707107008, z: .70710665, w: -4.32978096e-17}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: roll_back.R
+      position: {x: -.000320002437, y: .0575679913, z: .0483920053}
+      rotation: {x: -5.33850688e-08, y: .707106829, z: -.707106829, w: 5.33850759e-08}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: roll_front.R
+      position: {x: 2.11394102e-09, y: .140000015, z: 3.44004003e-09}
+      rotation: {x: -7.54978871e-08, y: -8.42936743e-08, z: -1, w: 2.13673781e-15}
+      scale: {x: .999999523, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_IK.R
+      position: {x: .000320002437, y: .0916080028, z: .0575679988}
+      rotation: {x: .961248755, y: 8.21599002e-08, z: -2.86474972e-07, w: -.275682628}
+      scale: {x: 1.00000036, y: .999999821, z: .999999225}
+      transformModified: 1
+    - name: roll_main.R
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 6.82017979e-25, z: -6.8202e-25, w: -.707106829}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: pole_target.R
+      position: {x: -.0399999991, y: -.419679999, z: -.705632031}
+      rotation: {x: -1, y: -4.47015973e-16, z: -4.37113847e-08, w: -1.02265352e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hips_main
+      position: {x: -7.08766565e-18, y: .0144479945, z: .994307935}
+      rotation: {x: -7.74383593e-17, y: -.627058268, z: .778972447, w: -1.45118375e-18}
+      scale: {x: .999999523, y: .999999523, z: .999999583}
+      transformModified: 1
+    - name: hips
+      position: {x: -7.08766482e-18, y: .149440721, z: 0}
+      rotation: {x: -1, y: -6.16736039e-15, z: 7.54978728e-08, w: -1.35343981e-07}
+      scale: {x: 1, y: 1.00000036, z: .999999821}
+      transformModified: 1
+    - name: spine
+      position: {x: 9.52339895e-16, y: .14944075, z: -5.58793545e-09}
+      rotation: {x: -.0546678267, y: 3.83597438e-08, z: 9.30441324e-09, w: .998504579}
+      scale: {x: 1.00000036, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: chest
+      position: {x: -7.30318583e-16, y: .133551672, z: -2.0081643e-09}
+      rotation: {x: -.0702503994, y: 5.15126652e-09, z: 4.87129137e-09, w: .997529387}
+      scale: {x: .999999762, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: neck
+      position: {x: 9.99200722e-16, y: .265936613, z: 1.86264537e-09}
+      rotation: {x: .0817093104, y: -4.56108573e-08, z: -9.05529252e-09, w: .996656239}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: head
+      position: {x: -2.60208521e-15, y: .0790530443, z: -1.33877576e-09}
+      rotation: {x: .188062623, y: -3.74294871e-08, z: -3.6424364e-08, w: .982157111}
+      scale: {x: .999999881, y: 1, z: .999999702}
+      transformModified: 1
+    - name: shoulder.L
+      position: {x: -.0153719988, y: .22042039, z: .0254659206}
+      rotation: {x: -.603226185, y: .344758719, z: .357203215, w: .624232054}
+      scale: {x: 1, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: upper_arm.L
+      position: {x: -.041020494, y: .148380607, z: -.0171325225}
+      rotation: {x: .166674137, y: -.690772414, z: .197338581, w: .675359666}
+      scale: {x: .999999881, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: forearm.L
+      position: {x: 4.42378223e-08, y: .280422628, z: -1.49011612e-08}
+      rotation: {x: .0365820937, y: -.0317032151, z: -.0187265519, w: .99865216}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: hand.L
+      position: {x: 6.01867214e-08, y: .228933826, z: 6.63567334e-09}
+      rotation: {x: -.0907810703, y: -.708566964, z: .0400578938, w: .698632181}
+      scale: {x: .999999523, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: palm.01.L
+      position: {x: .019271452, y: .0331055187, z: -.00447219098}
+      rotation: {x: .00209063524, y: -.00383284432, z: -.0259257667, w: .999654412}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: f_index.01.L
+      position: {x: -1.86264515e-09, y: .0582776815, z: -6.557093e-08}
+      rotation: {x: .0350523554, y: -.0399116762, z: -.0239436738, w: .998301148}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: f_index.02.L
+      position: {x: 1.11758709e-08, y: .035960827, z: 7.31088221e-08}
+      rotation: {x: .0357325263, y: .0161801726, z: .00508143473, w: .999217451}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: f_index.03.L
+      position: {x: -3.7252903e-09, y: .0158100184, z: -8.94069672e-08}
+      rotation: {x: .124168269, y: .0197976083, z: .0524077676, w: .990678489}
+      scale: {x: .999999821, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: thumb.01.L
+      position: {x: .00376759283, y: -.0183229037, z: .00728407409}
+      rotation: {x: .00657119509, y: .0570828654, z: -.449105561, w: .891629159}
+      scale: {x: 1.00000024, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: thumb.02.L
+      position: {x: 2.79396772e-09, y: .020907294, z: 9.87201929e-08}
+      rotation: {x: .0271684043, y: -.0329566374, z: .0225278921, w: .998833418}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: thumb.03.L
+      position: {x: 3.35276127e-08, y: .0239886139, z: -1.67638063e-08}
+      rotation: {x: .193494692, y: .0624566376, z: .0339291319, w: .978523254}
+      scale: {x: 1.00000024, y: .999999702, z: .999999583}
+      transformModified: 1
+    - name: palm.02.L
+      position: {x: .00511053577, y: .0352578387, z: -.00648542447}
+      rotation: {x: -.0099462308, y: .00469821598, z: -.0148213012, w: .99982971}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: f_middle.01.L
+      position: {x: 3.7252903e-09, y: .0548427515, z: 9.52422852e-09}
+      rotation: {x: .0443633795, y: -.0204900559, z: .00801590737, w: .998773158}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: f_middle.02.L
+      position: {x: -9.31322575e-09, y: .0398412272, z: -5.7159923e-08}
+      rotation: {x: .0276500117, y: .0380262956, z: -.00236740964, w: .998891294}
+      scale: {x: .99999994, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: f_middle.03.L
+      position: {x: 5.58793545e-09, y: .0235145688, z: -9.77306627e-08}
+      rotation: {x: -.0628017411, y: .0249143783, z: .0463320985, w: .996638656}
+      scale: {x: .999999583, y: .999999225, z: .999999821}
+      transformModified: 1
+    - name: palm.03.L
+      position: {x: -.00789146312, y: .0336303785, z: -.0058345506}
+      rotation: {x: -5.76383027e-05, y: .0226386636, z: .0277479459, w: .999358594}
+      scale: {x: .999999821, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: f_ring.01.L
+      position: {x: 4.88944352e-09, y: .0546919554, z: -2.85363058e-08}
+      rotation: {x: .0286209472, y: .0135630462, z: -.0195362605, w: .999307454}
+      scale: {x: .999999702, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: f_ring.02.L
+      position: {x: 6.92671165e-09, y: .0356919318, z: -5.37474989e-08}
+      rotation: {x: .0255637821, y: .0278753154, z: -5.12205515e-05, w: .999284506}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: f_ring.03.L
+      position: {x: -4.07453626e-09, y: .0203765277, z: -5.86078386e-08}
+      rotation: {x: -.048881758, y: .00277312379, z: -.0339005813, w: .998225212}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: palm.04.L
+      position: {x: -.0202837884, y: .0302339271, z: -.00383488927}
+      rotation: {x: .029778352, y: .0110156741, z: .0529580824, w: .998091877}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: f_pinky.01.L
+      position: {x: -9.31322575e-10, y: .0564560704, z: 1.26485247e-07}
+      rotation: {x: -.0112997582, y: .081122376, z: -.0333004631, w: .996083677}
+      scale: {x: .999999642, y: .999999523, z: .999999702}
+      transformModified: 1
+    - name: f_pinky.02.L
+      position: {x: 1.11758709e-08, y: .0273358189, z: -5.40167093e-08}
+      rotation: {x: .0271340962, y: .0162258819, z: .00526084378, w: .999486327}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: f_pinky.03.L
+      position: {x: 9.31322575e-09, y: .017102642, z: -2.32830644e-09}
+      rotation: {x: -.0310969818, y: -.0157909747, z: -.0573331974, w: .997745693}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: shoulder.R
+      position: {x: .0153720025, y: .22042039, z: .025465915}
+      rotation: {x: -.603226185, y: -.344758689, z: -.357203066, w: .624232054}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: upper_arm.R
+      position: {x: .0410204902, y: .148380622, z: -.0171324145}
+      rotation: {x: -.166674078, y: -.690772355, z: .197338685, w: -.675359726}
+      scale: {x: 1.00000012, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: forearm.R
+      position: {x: -4.88944352e-08, y: .280422747, z: 1.86264515e-08}
+      rotation: {x: .0365823768, y: .0317033604, z: .0187264215, w: .998652041}
+      scale: {x: .99999994, y: .999999642, z: .999999702}
+      transformModified: 1
+    - name: hand.R
+      position: {x: -9.09403752e-08, y: .228933752, z: -2.54949555e-08}
+      rotation: {x: -.0955062583, y: .60344106, z: -.0269139539, w: .791209936}
+      scale: {x: 1.00000048, y: 1.00000036, z: .999999881}
+      transformModified: 1
+    - name: palm.01.R
+      position: {x: -.0197550952, y: .033105541, z: .00106278388}
+      rotation: {x: .010977583, y: -.0695654899, z: .0235798564, w: .997238338}
+      scale: {x: .999999821, y: .99999994, z: 1}
+      transformModified: 1
+    - name: f_index.01.R
+      position: {x: 2.60770321e-08, y: .0582777187, z: -9.87201929e-08}
+      rotation: {x: .0408363231, y: .145442382, z: .0115951411, w: .988455594}
+      scale: {x: 1.00000036, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: f_index.02.R
+      position: {x: 3.7252903e-09, y: .0359608978, z: -3.28291208e-08}
+      rotation: {x: .033907976, y: -.00728424639, z: -.0123319486, w: .999322355}
+      scale: {x: .999999881, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: f_index.03.R
+      position: {x: -9.54605639e-09, y: .0158100855, z: 3.86498868e-08}
+      rotation: {x: .113465995, y: .00793189835, z: -.0727364644, w: .990844071}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: thumb.01.R
+      position: {x: -.000398406759, y: -.018322926, z: .00819102302}
+      rotation: {x: -.0759341866, y: -.185874298, z: -.442689002, w: -.873905778}
+      scale: {x: 1, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: thumb.02.R
+      position: {x: 1.39698386e-08, y: .0209073313, z: -1.92318112e-07}
+      rotation: {x: .0296828374, y: .0355106369, z: -.0190868825, w: .998746037}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: thumb.03.R
+      position: {x: 3.16649675e-08, y: .0239885785, z: -3.35276127e-08}
+      rotation: {x: .196420774, y: .00270530442, z: .00320080062, w: .980510712}
+      scale: {x: 1, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: palm.02.R
+      position: {x: -.00671245856, y: .0352578275, z: -.00480872765}
+      rotation: {x: -.00484742131, y: -.0389369354, z: .0171787068, w: .999082267}
+      scale: {x: .999999702, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: f_middle.01.R
+      position: {x: -2.51457095e-08, y: .0548427515, z: -3.21306288e-08}
+      rotation: {x: .0393442437, y: .0395834669, z: -.0220033024, w: .998198867}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: f_middle.02.R
+      position: {x: 1.49011612e-08, y: .0398411602, z: 4.47034836e-08}
+      rotation: {x: .0273208898, y: .0130865369, z: -.00484420639, w: .999529302}
+      scale: {x: 1, y: 1.00000012, z: .999999583}
+      transformModified: 1
+    - name: f_middle.03.R
+      position: {x: -1.86264515e-08, y: .0235146098, z: -3.30619514e-08}
+      rotation: {x: -.0688134059, y: .0402544476, z: -.0368144773, w: .996137023}
+      scale: {x: .999999881, y: .999999583, z: 1.00000012}
+      transformModified: 1
+    - name: palm.03.R
+      position: {x: .00595775945, y: .0336303972, z: -.00779893529}
+      rotation: {x: -.0045531299, y: .0961906612, z: -.027371753, w: .994976163}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000048}
+      transformModified: 1
+    - name: f_ring.01.R
+      position: {x: -9.31322575e-09, y: .0546919256, z: 1.44937076e-08}
+      rotation: {x: .029444512, y: -.0135059757, z: .0182688981, w: .999308169}
+      scale: {x: .999999821, y: .999999762, z: 1}
+      transformModified: 1
+    - name: f_ring.02.R
+      position: {x: -3.25962901e-09, y: .0356919356, z: -2.66882125e-08}
+      rotation: {x: .0254845992, y: -.0620174482, z: -.00193565909, w: .997747779}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: f_ring.03.R
+      position: {x: -2.6775524e-09, y: .0203765556, z: 2.64117261e-08}
+      rotation: {x: -.0442042314, y: -.0175016224, z: .0398078114, w: .998075664}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: palm.04.R
+      position: {x: .018417377, y: .0302339159, z: -.00932403095}
+      rotation: {x: -.023102561, y: -.147823021, z: .0561901815, w: -.98714602}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: f_pinky.01.R
+      position: {x: 3.25962901e-09, y: .056455981, z: 6.82775863e-08}
+      rotation: {x: -.0169190709, y: .0560032427, z: .0308255795, w: .997811198}
+      scale: {x: .999999881, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: f_pinky.02.R
+      position: {x: -1.3038516e-08, y: .027335804, z: -3.49245965e-09}
+      rotation: {x: -.027620459, y: .177157074, z: .00113757805, w: -.983794272}
+      scale: {x: .99999994, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: f_pinky.03.R
+      position: {x: -1.11758709e-08, y: .0171028078, z: 1.90921128e-08}
+      rotation: {x: -.0285240542, y: -.0168633815, z: .0586556233, w: .997728169}
+      scale: {x: .999999702, y: .999999464, z: .999999821}
+      transformModified: 1
+    - name: thigh.L
+      position: {x: -.0823199898, y: .0586393327, z: .0239802692}
+      rotation: {x: .987666011, y: -.0480125248, z: .00705492124, w: .148865566}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000226}
+      transformModified: 1
+    - name: shin.L
+      position: {x: -4.36557457e-11, y: .412622064, z: 1.16415322e-08}
+      rotation: {x: .141502365, y: -.00790421013, z: -.00121995632, w: .989905596}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: foot.L
+      position: {x: -1.61817297e-08, y: .430190951, z: 1.39698386e-09}
+      rotation: {x: -.569354951, y: .0220483616, z: -.0413489789, w: .820755243}
+      scale: {x: .999999762, y: 1, z: .999999523}
+      transformModified: 1
+    - name: toe.L
+      position: {x: 1.53293964e-08, y: .108566262, z: -9.61975388e-10}
+      rotation: {x: -5.77298636e-08, y: .961248755, z: -.275682658, w: -3.02728125e-07}
+      scale: {x: 1.00000036, y: .999999166, z: 1.00000107}
+      transformModified: 1
+    - name: thigh.R
+      position: {x: .0823200196, y: .0586393289, z: .0239802413}
+      rotation: {x: .987663329, y: .0479586869, z: -.00741225015, w: .148882911}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000226}
+      transformModified: 1
+    - name: shin.R
+      position: {x: 9.49148671e-09, y: .412622094, z: -5.3551048e-09}
+      rotation: {x: .141481563, y: .0190904196, z: .00271659112, w: .989753067}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: foot.R
+      position: {x: -1.16415322e-09, y: .430190861, z: 3.7252903e-09}
+      rotation: {x: -.569773197, y: -.0310258344, z: .0351186134, w: .820464909}
+      scale: {x: .999999881, y: 1.00000048, z: .999999702}
+      transformModified: 1
+    - name: toe.R
+      position: {x: -1.81073556e-09, y: .108566247, z: 1.03834452e-09}
+      rotation: {x: -7.80732137e-08, y: .961248696, z: -.275682628, w: -3.11965493e-07}
+      scale: {x: 1.00000036, y: .999999166, z: 1.00000095}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
